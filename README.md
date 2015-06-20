@@ -2,7 +2,7 @@
 
 ## Goals
 
-The primary goal of this project is to provide a complete library implementation of the [Raft consensus algorithm](https://raftconsensus.github.io) in Rust, as described in the PhD dissertation _[Consensus: Bridging Theory and Practice]_(https://github.com/ongardie/dissertation#readme) and implemented by many, many people. 
+The primary goal of this project is to provide a complete library implementation of the [Raft consensus algorithm](https://raftconsensus.github.io) in Rust, as described in the PhD dissertation [_Consensus: Bridging Theory and Practice_](https://github.com/ongardie/dissertation#readme) and implemented by many, many people. 
 
 Why has it already been implemented so many times? Because it's a lot easier to understand than [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science)), and [ZAB](https://zookeeper.apache.org) already has a perfectly good implementation.
 
