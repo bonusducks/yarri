@@ -1,4 +1,4 @@
-# rusty-raft
+# yarri (Yet Another Rust Raft Implementation)
 
 ## Goals
 
